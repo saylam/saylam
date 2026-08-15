@@ -28,6 +28,34 @@ R&amp;D | Process &amp; Technology Development | Modelling, Validation &amp; Sca
 
 <hr>
 
+<h2>بحث علمي جديد | New Research Publication</h2>
+
+<p>
+تم نشر دراسة علمية مفتوحة الوصول حول <strong>الاختزال التكيفي للآليات الحركية الكيميائية التفصيلية</strong>، مع التحقق باستخدام
+GRI-Mech 3.0 و USC Mech II، وتحليل منفصل لدقة الاختزال والأداء الحسابي وحدود التنفيذ التكيفي الحالي.
+</p>
+
+<p>
+<strong>Causal Adaptive Reduction of Detailed Chemical Kinetic Mechanisms: Accuracy, Transfer to a Second Mechanism, and Runtime Limits</strong>
+</p>
+
+<p>
+تتضمن الدراسة حزمة كاملة لإعادة الإنتاج تشمل الشفرة البرمجية، نتائج التحقق، الاختبارات التشخيصية وتحليل زمن التنفيذ.
+</p>
+
+<p>
+<em>
+Open-access study on causal adaptive reduction of detailed chemical kinetic mechanisms, including validation, transfer to a second mechanism, reproducibility and runtime analysis.
+</em>
+</p>
+
+<p>
+<strong>DOI:</strong>
+<a href="https://doi.org/10.5281/zenodo.21932685">10.5281/zenodo.21932685</a>
+</p>
+
+<hr>
+
 <h2>الوصول السريع | Quick Access</h2>
 
 <ul>

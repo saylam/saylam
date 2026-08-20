@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://saylamah.github.io">
+    <img
+      src="https://saylamah.github.io/global-tech-orbit-logo.png"
+      alt="Ahmad Saylam — Scientific and Engineering Professional Identity"
+      width="150"
+    >
+  </a>
+</p>
+
 <div dir="rtl" align="right">
 
 <h1>د. أحمد سيلم | Dr. Ahmad Saylam</h1>
@@ -16,14 +26,15 @@ R&amp;D | Process &amp; Technology Development | Modelling, Validation &amp; Sca
 <h2>نبذة مختصرة | Professional Profile</h2>
 
 <p>
-مطور وباحث متخصص في <strong>البحث والتطوير وتطوير التقنيات والعمليات الصناعية</strong>، مع خبرة في الربط بين الأسس العلمية، النمذجة والمحاكاة، التحقق التجريبي، تطوير المفاهيم الهندسية، والتحول من المستوى البحثي أو التجريبي إلى التطبيق الصناعي.</p>
-
-<p>
-يمتد عملي عبر أنظمة الاحتراق والتفاعل الكيميائي، العمليات الحرارية-الكيميائية، معالجة الوقود والزيوت، تحويل الكتلة الحيوية والمخلفات، معالجة المياه الصناعية، تكثيف العمليات، واستعادة الموارد.
+باحث ومهندس متخصص في <strong>البحث والتطوير وتطوير التقنيات والعمليات الصناعية</strong>، مع خبرة طويلة في الربط بين الأسس العلمية، النمذجة والمحاكاة، التحقق التجريبي، تطوير المفاهيم الهندسية، والتدرج من المستوى البحثي أو التجريبي إلى التطبيق الصناعي.
 </p>
 
 <p>
-تهدف هذه الصفحة إلى توفير <strong>بوابة عربية مختصرة</strong> للوصول إلى عملي العلمي والهندسي، ولتسهيل التواصل بشأن الفرص المهنية، الاستشارات، التعاون البحثي والصناعي، وتطوير التقنيات، خصوصاً في العالم العربي ودول الخليج.
+يمتد عملي عبر أنظمة الاحتراق والتفاعل الكيميائي، العمليات الحرارية-الكيميائية، معالجة الوقود والزيوت، تحويل الكتلة الحيوية والمخلفات، معالجة المياه الصناعية ومياه الصرف، تكثيف العمليات، استعادة الموارد، وتطوير التقنيات المستدامة.
+</p>
+
+<p>
+تهدف هذه الصفحة إلى توفير <strong>بوابة عربية مختصرة ومهنية</strong> للوصول إلى عملي العلمي والهندسي، ولتسهيل التواصل بشأن الفرص المهنية، الاستشارات، التعاون البحثي والصناعي، وتطوير التقنيات، خصوصاً في العالم العربي ودول الخليج.
 </p>
 
 <hr>
@@ -32,7 +43,7 @@ R&amp;D | Process &amp; Technology Development | Modelling, Validation &amp; Sca
 
 <p>
 تم نشر دراسة علمية مفتوحة الوصول حول <strong>الاختزال التكيفي للآليات الحركية الكيميائية التفصيلية</strong>، مع التحقق باستخدام
-GRI-Mech 3.0 و USC Mech II، وتحليل منفصل لدقة الاختزال والأداء الحسابي وحدود التنفيذ التكيفي الحالي.
+GRI-Mech 3.0 و USC Mech II، وتحليل منفصل لدقة الاختزال، قابلية النقل إلى آلية ثانية، الأداء الحسابي، وحدود التنفيذ التكيفي الحالي.
 </p>
 
 <p>
@@ -60,12 +71,12 @@ Open-access study on causal adaptive reduction of detailed chemical kinetic mech
 
 <ul>
   <li>
-    <strong>الملف التقني والمستودعات المفتوحة | Technical GitHub:</strong>
+    <strong>الحساب التقني والمستودعات المفتوحة | Technical GitHub:</strong>
     <a href="https://github.com/saylamah">github.com/saylamah</a>
   </li>
 
   <li>
-    <strong>الموقع المهني | Professional Website:</strong>
+    <strong>الموقع المهني والعلمي | Professional Website:</strong>
     <a href="https://saylamah.github.io">saylamah.github.io</a>
   </li>
 
@@ -82,6 +93,16 @@ Open-access study on causal adaptive reduction of detailed chemical kinetic mech
   <li>
     <strong>المنشورات العلمية والتقنية | Publications:</strong>
     <a href="https://saylamah.github.io/publications.html">Publications</a>
+  </li>
+
+  <li>
+    <strong>الملف المهني والسيرة | Professional Profile:</strong>
+    <a href="https://saylamah.github.io/about-cv.html">About / CV</a>
+  </li>
+
+  <li>
+    <strong>الاستشارات الهندسية والعلمية | Consulting:</strong>
+    <a href="https://saylamah.github.io/consulting.html">Consulting</a>
   </li>
 
   <li>
@@ -156,7 +177,7 @@ Open-access study on causal adaptive reduction of detailed chemical kinetic mech
   </li>
 
   <li>
-    التقييم التقني، التحقق التجريبي، تطوير النماذج الأولية والتجريبية
+    التقييم التقني، التحقق التجريبي، تطوير النماذج الأولية والأنظمة التجريبية
     <br>
     <em>Technical Assessment, Experimental Validation &amp; Pilot Development</em>
   </li>
@@ -184,7 +205,7 @@ R&amp;D Leadership, Process Engineering, Technology Development, Technical Proje
 </p>
 
 <p>
-يمكن أن يشمل التعاون مهاماً محددة قصيرة الأجل، دراسات تقنية، مراجعات هندسية، أو برامج تطوير مشتركة.
+يمكن أن يشمل التعاون مهاماً محددة قصيرة الأجل، دراسات تقنية، مراجعات هندسية، برامج تطوير مشتركة، أو دعماً تقنياً مستمراً ضمن نطاق واضح ومحدد.
 </p>
 
 <h3>3. التعاون البحثي والصناعي | Scientific &amp; Industrial Collaboration</h3>
@@ -202,7 +223,7 @@ R&amp;D Leadership, Process Engineering, Technology Development, Technical Proje
 <p>
 يشمل ذلك بصورة انتقائية تطبيقات
 <strong>التجويف الهيدروديناميكي | Hydrodynamic Cavitation (HC)</strong>
-ضمن أطر مناسبة للتحقق التقني، التطوير المشترك، والشراكات الصناعية.
+ضمن أطر مناسبة للتحقق التقني، التطوير المشترك، الاختبار الصناعي، التوسيع، والشراكات التقنية.
 </p>
 
 <hr>
@@ -278,7 +299,7 @@ R&amp;D Leadership, Process Engineering, Technology Development, Technical Proje
 </p>
 
 <p>
-لا يتم نشر بيانات العملاء، المعلومات الصناعية السرية، التفاصيل التشغيلية المقيدة، المعرفة التقنية غير المنشورة، أو أي معلومات خاضعة لاتفاقيات سرية.
+لا يتم نشر بيانات العملاء، المعلومات الصناعية السرية، التفاصيل التشغيلية المقيدة، المعرفة التقنية غير المنشورة، أو أي معلومات خاضعة لاتفاقيات سرية أو حقوق ملكية فكرية لطرف آخر.
 </p>
 
 <hr>

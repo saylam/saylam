@@ -109,6 +109,11 @@ Open-access study on causal adaptive reduction of detailed chemical kinetic mech
     <strong>التواصل المهني | LinkedIn:</strong>
     <a href="https://www.linkedin.com/in/ahmad-saylam">Ahmad Saylam</a>
   </li>
+
+  <li>
+  <strong>البريد المهني | Professional Email:</strong>
+  <a href="mailto:saylam@scientavia.com">saylam@scientavia.com</a>
+</li>
 </ul>
 
 <hr>
